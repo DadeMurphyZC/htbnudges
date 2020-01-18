@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/htbnudges/static/css/main.d1b05096.chunk.css",
+    "main.js": "/htbnudges/static/js/main.1d860b91.chunk.js",
+    "main.js.map": "/htbnudges/static/js/main.1d860b91.chunk.js.map",
+    "runtime-main.js": "/htbnudges/static/js/runtime-main.5eeae6c5.js",
+    "runtime-main.js.map": "/htbnudges/static/js/runtime-main.5eeae6c5.js.map",
+    "static/js/2.e6786523.chunk.js": "/htbnudges/static/js/2.e6786523.chunk.js",
+    "static/js/2.e6786523.chunk.js.map": "/htbnudges/static/js/2.e6786523.chunk.js.map",
+    "index.html": "/htbnudges/index.html",
+    "precache-manifest.ab90b901b1a949226523c407f9948b0a.js": "/htbnudges/precache-manifest.ab90b901b1a949226523c407f9948b0a.js",
+    "service-worker.js": "/htbnudges/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/htbnudges/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e6786523.chunk.js.LICENSE": "/htbnudges/static/js/2.e6786523.chunk.js.LICENSE",
+    "static/media/logo.svg": "/htbnudges/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eeae6c5.js",
+    "static/js/2.e6786523.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1d860b91.chunk.js"
+  ]
+}
